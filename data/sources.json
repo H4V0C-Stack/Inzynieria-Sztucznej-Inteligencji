@@ -1,0 +1,30 @@
+[
+  {
+    "file": "winequality-red.csv",
+    "download_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv",
+    "bytes": 84199,
+    "sha256": "4a402cf041b025d4566d954c3b9ba8635a3a8a01e039005d97d6a710278cf05e",
+    "download_date": "2026-10-23"
+  },
+  {
+    "file": "winequality-white.csv",
+    "download_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv",
+    "bytes": 264426,
+    "sha256": "76c3f809815c17c07212622f776311faeb31e87610d52c26d87d6e361b169836",
+    "download_date": "2026-10-23"
+  },
+  {
+    "file": "winequality.names",
+    "download_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality.names",
+    "bytes": 3305,
+    "sha256": "15d215e73b39105952380fd487e4ce1bf5a6b83a425abb285c2ec55193d3ca92",
+    "download_date": "2026-10-23"
+  },
+  {
+    "file": "winemag-data-130k-v2.csv",
+    "download_url": "https://www.kaggle.com/api/v1/datasets/download/zynicide/wine-reviews/winemag-data-130k-v2.csv",
+    "bytes": 52908706,
+    "sha256": "52af2643c8ac29f010f0cc629dfbdda1c74aa0f332d11762af9ef3de4e567ac9",
+    "download_date": "2026-10-23"
+  }
+]
