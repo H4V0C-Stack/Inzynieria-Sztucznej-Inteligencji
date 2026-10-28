@@ -1,0 +1,30 @@
+{
+  "repo_url": "https://github.com/H4V0C-Stack/Inzynieria-Sztucznej-Inteligencji",
+  "team": [
+    {
+      "name": "Lavrenko Nazarii",
+      "id": "71499",
+      "role": "Pozyskanie i czyszczenie danych liczbowych (UCI Wine Quality), plik data/sources.json"
+    },
+    {
+      "name": "Dorokhin Yevhenii",
+      "id": "71545",
+      "role": "EDA zbioru recenzji (dane tekstowe), analiza słownictwa"
+    },
+    {
+      "name": "Kelyp Yaroslav",
+      "id": "71503",
+      "role": "Testy statystyczne, przedziały ufności i wielkości efektu (sekcja 5 notebooka)"
+    },
+    {
+      "name": "Pitsukha Herman",
+      "id": "71682",
+      "role": "Repozytorium GitHub, README, przeglądarka wyników w Gradio (app.py)"
+    },
+    {
+      "name": "Tsymbaliuk Roman",
+      "id": "71676",
+      "role": "Pytania badawcze, plan kolejnych etapów, redakcja raportu PDF"
+    }
+  ]
+}

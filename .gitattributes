@@ -1,0 +1,3 @@
+# Dane surowe zostawiamy bajt w bajt, żeby sumy kontrolne w data/sources.json się zgadzały.
+data/raw/*.csv -text
+data/raw/*.names -text
