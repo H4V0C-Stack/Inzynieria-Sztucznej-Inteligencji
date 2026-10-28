@@ -1,6 +1,7 @@
 # Inzynieria-Sztucznej-Inteligencji
 
-# Jakość wina — pierwszy etap
+# Jakość wina 
+Pierwszy etap:
 
 Analiza danych UCI Wine Quality i Wine Reviews oraz pytania badawcze.
 Cały kod jest w `analiza_wina.ipynb`. Notebook korzysta z lokalnych danych i nie trenuje modeli.
