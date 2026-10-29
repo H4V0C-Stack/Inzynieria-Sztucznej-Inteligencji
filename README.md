@@ -4,7 +4,7 @@
 Pierwszy etap:
 
 Analiza danych UCI Wine Quality i Wine Reviews oraz pytania badawcze.
-Cały kod jest w `analiza_wina.ipynb`. Notebook korzysta z lokalnych danych i nie trenuje modeli.
+Cały kod znajduje się w pliku `analiza_wina.ipynb`. Notebook korzysta z lokalnych danych i nie trenuje modeli.
 
 ## Uruchomienie
 
