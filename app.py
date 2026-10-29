@@ -158,7 +158,7 @@ def build_ui():
     countries, varieties = review_choices()
     with gr.Blocks(title="Jakość wina - przeglądarka wyników") as demo:
         gr.Markdown("# Jakość wina: przeglądarka wyników etapu 1\n"
-                    "Dane liczbowe (UCI Wine Quality) i tekstowe (Wine Reviews). Pełna analiza: `analiza_wina.ipynb`.")
+                    "Dane liczbowe (UCI Wine Quality) i tekstowe (Wine Reviews). Pelna analiza: `analiza_wina.ipynb`.")
 
         with gr.Tab("Dane liczbowe"):
             with gr.Row():
