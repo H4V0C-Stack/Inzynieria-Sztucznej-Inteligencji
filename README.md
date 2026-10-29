@@ -76,7 +76,7 @@ przez git przy pierwszym dodaniu plików). Plik `.gitattributes` zapobiega dalsz
 Po usunięciu powtórzeń pozostaje 1359 czerwonych i 3961 białych win oraz 119954 recenzji.
 Cena jest dostępna dla 111566 oczyszczonych recenzji. Nie uzupełniamy brakujących cen ani nie usuwamy
 automatycznie obserwacji odstających. Przy powtórzeniach zachowujemy pierwsze wystąpienie;
-dla opisów normalizujemy wielkość liter i białe znaki.
+Dla opisów normalizujemy wielkość liter i białe znaki.
 
 Zbiory dotyczą różnych win oraz używają różnych skal ocen, dlatego nie łączymy rekordów.
 Korelacje i różnice słownictwa opisują tę próbę, a nie zależności przyczynowe.
