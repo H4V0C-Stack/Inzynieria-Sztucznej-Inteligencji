@@ -3,20 +3,20 @@
 # Jakość wina 
 Pierwszy etap:
 
-Analiza danych UCI Wine Quality i Wine Reviews oraz pytania badawcze.
+Kompleksowa analiza danych UCI Wine Quality i Wine Reviews oraz pytania badawcze.
 Cały kod znajduje się w pliku `analiza_wina.ipynb`. Notebook korzysta z lokalnych danych i nie trenuje modeli.
 
 ## Uruchomienie
 
-1. Zainstaluj zależności:
+1. Zainstaluj wymagane zależności w środowisku Python:
 
    ```powershell
    python -m pip install -r requirements.txt
    ```
 
 2. Otwórz `analiza_wina.ipynb` w Jupyter lub VS Code i uruchom wszystkie komórki od góry do dołu.
-   W Colab prześlij i rozpakuj folder projektu, a następnie przejdź do niego przed uruchomieniem notebooka.
-   Notebook zapisuje wykresy w `output/figures` i tabele w `output/tables`.
+   W Google Colab najpierw prześlij i rozpakuj folder projektu, a następnie przejdź do niego przed uruchomieniem.
+   Wskazówka: Notebook automatycznie zapisuje wygenerowane wykresy w `output/figures oraz` tabele w `output/tables`.
 
 3. Przeglądanie wyników w interfejsie (Gradio):
 
@@ -24,8 +24,9 @@ Cały kod znajduje się w pliku `analiza_wina.ipynb`. Notebook korzysta z lokaln
    python app.py
    ```
 
-   Otwórz adres z terminala (zwykle http://127.0.0.1:7860). Zakładki: dane liczbowe (rozkłady cech, korelacje z oceną),
-   recenzje (filtry kraj, odmiana, ocena, próbka opisów, najczęstsze słowa), tabele z analizy i wykresy.
+   Otwórz wskazany w terminalu adres (standardowo http://127.0.0.1:7860).
+   Dostępne zakładки: dane liczbowe (rozkłady i korelacje), recenzje (filtry, próbki, analiza słów), tabele oraz wykresy.
+   (Aby zatrzymać serwer, użyj kombinacji Ctrl+C w terminalu).
 
 4. Raport PDF etapu 1 (opcjonalnie, odtworzenie):
 
