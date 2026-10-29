@@ -78,7 +78,7 @@ Cena jest dostępna dla 111566 oczyszczonych recenzji. Nie uzupełniamy brakują
 automatycznie obserwacji odstających. Przy powtórzeniach zachowujemy pierwsze wystąpienie;
 dla opisów normalizujemy wielkość liter i białe znaki.
 
-Zbiory dotyczą różnych win i używają różnych skal ocen, dlatego nie łączymy rekordów.
+Zbiory dotyczą różnych win oraz używają różnych skal ocen, dlatego nie łączymy rekordów.
 Korelacje i różnice słownictwa opisują tę próbę, a nie zależności przyczynowe.
 
 ## Zespół
